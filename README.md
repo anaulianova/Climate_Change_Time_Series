@@ -53,9 +53,11 @@ Aside from a severe dip in 2008, which was the coolest year of the past decade, 
 Unfortunately, this increase in temperatures is not only found in the heat index, but in severe weather patterns as well: 
 ![weather](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/monthlyextreme.png)
 The following have all been attributed or suspected to come from climate change: 
-  - Stronger and more frequent forest fires 
+  - Floods
   - Irregular and more frequent snowstorms 
   - Heavier and stronger hurricanes 
+  - Stronger and more frequent forest fires 
+
 ![CFIRE](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/Californiaf.jpg)
 
 ## Recommendations 
