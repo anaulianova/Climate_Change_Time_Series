@@ -49,3 +49,13 @@ Per our stated objective, it is certainly one thing to see global temperature ch
 ![usat](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/usatemp.png)
 
 Aside from a severe dip in 2008, which was the coolest year of the past decade, the United States has followed the global norm: temperatures are increasing faster and faster, spiking in the late 20th and early 21st centuries. 
+
+Unfortunately, this increase in temperatures is not only found in the heat index, but in severe weather patterns as well: 
+![weather](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/monthlyextreme.png)
+The following have all been attributed or suspected to come from climate change: 
+  - California fires 
+  - Texas snowstorms 
+  - Heavier and stronger hurricanes 
+  - Power outages
+
+
