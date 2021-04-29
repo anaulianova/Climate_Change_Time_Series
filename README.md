@@ -22,7 +22,12 @@ In this changing political and social environment, we felt it prudent to make cl
   - [Sea Levels, EPA and NOAA](https://www.kaggle.com/somesh24/sea-level-change)
 
 
-![alt text]()
+### Methodology 
+  - Clean data and perform EDA on the various features included
+  - Modify/convert for time series analysis and modeling
+  - Using ARIMA, evaluate time series models via AIC, R^2, and RMSE scores
+
+
 
 
 
