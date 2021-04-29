@@ -56,7 +56,8 @@ The following have all been attributed or suspected to come from climate change:
   - Stronger and more frequent forest fires 
   - Irregular and more frequent snowstorms 
   - Heavier and stronger hurricanes 
+![CFIRE](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/Californiaf.jpg)
 
-
+## Recommendations 
 
 
