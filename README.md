@@ -62,4 +62,8 @@ The following have all been attributed or suspected to come from climate change:
 
 ## Recommendations 
 
+![Biden](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/bidentitle.png)
+
+Here's where the money comes into play. The Biden-Harrs Administration is pushing an expansive, comprehensive infrastructure and climate change bill. While some of the stated goals, which can be found [here](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/fact-sheet-president-biden-sets-2030-greenhouse-gas-pollution-reduction-target-aimed-at-creating-good-paying-union-jobs-and-securing-u-s-leadership-on-clean-energy-technologies/#:~:text=Today%2C%20President%20Biden%20will%20announce,to%20tackle%20the%20climate%20crisis.), focus on pledges and redoubling America's leadership, much of the bill focuses job creation and the American industry response to climate change. 
+
 
