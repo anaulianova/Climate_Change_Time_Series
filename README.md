@@ -2,7 +2,7 @@
 
 ![industry](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/industry.jpg)
 
-### Project Overview
+## Project Overview
 
 In 2009, 18 different scientific associations issued a perfunctory statement on climate change. It reads, 
 **"Observations throughout the world make it clear that climate change is occurring, and rigorous scientific research demonstrates that the greenhouse gases emitted by human activities are the primary driver."** Those associations and NASA's publication of their findings can be found [here](https://climate.nasa.gov/scientific-consensus/).
@@ -14,7 +14,12 @@ In this changing political and social environment, we felt it prudent to make cl
 ![levi](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/levipledge.jpg)
 
 
+### Data
 
+  - [UN, GHG Emissions](https://www.kaggle.com/unitednations/international-greenhouse-gas-emissions)
+  - [Berkeley, Temp Change](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data)
+  - [NOAA, Storms](https://www.ncdc.noaa.gov/stormevents/)
+  - [Sea Levels, EPA and NOAA](https://www.kaggle.com/somesh24/sea-level-change)
 
 
 ![alt text]()
