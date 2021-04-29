@@ -9,7 +9,7 @@ In 2009, 18 different scientific associations issued a perfunctory statement on 
 
 That knowledge isn't surprising now nor was it surprising then nor was it surprising over 100 years ago. As early as the late 1800s, [scientists](https://www.nytimes.com/2020/04/21/obituaries/eunice-foote-overlooked.html) were proving greenhouse gases warmed the planet. Thankfully, the 21st century has given rise to independent, political and, very rarely, environmentally conscious businesses, encouraging policy reversals and new climate pledges. This project is not aimed at proving something known or castigating governments or corporations. This project is about the future of industry. And money. 
 
-In this changing political and social environment, we felt it prudent to make climate change a financial issue, a means of persuasion for antiquated industries and GHG emitters. By marrying an examination of climate changes and policy, we aim to convince private entities and businesses to mitigate the effects of global warming. 
+In this changing political and social environment, we felt it prudent to make climate change a financial issue, a means of persuasion for antiquated industries and GHG emitters. By marrying an examination of climate changes and policy, we aim to convince private entities and businesses to mitigate the effects of global warming by better adopting and implementing Environment Corporate Social Responsibility practices within their business culture, thus addressing the issue on an institutional level.
 
 ![levi](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/levipledge.jpg)
 
