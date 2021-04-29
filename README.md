@@ -43,3 +43,9 @@ As the planet warms, ice caps melt and sea levels rise:
 ![NOAA](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/climatedash.jpg)
 ![sealevel](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/sealevel.png)
 
+### Climate Change in the United States 
+
+Per our stated objective, it is certainly one thing to see global temperature changes and another to see how those changes affect the United States and its industries. 
+![usat](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/usatemp.png)
+
+Aside from a severe dip in 2008, which was the coolest year of the past decade, the United States has followed the global norm: temperatures are increasing faster and faster, spiking in the late 20th and early 21st centuries. 
