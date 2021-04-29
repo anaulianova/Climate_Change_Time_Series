@@ -35,10 +35,11 @@ In this changing political and social environment, we felt it prudent to make cl
 
 ![GlobalT](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/globaltemp.png)
 
-Over the 120 years, the mean global temperature has steadily increased. It has spiked dramatically in the late 20th and early 21st centuries as more nations industrialize and material consumption increases. As China and India have rapidly developed, they now account for close to 40% of GHG [emissions](https://www.activesustainability.com/environment/top-5-most-polluting-countries/).
+Over the 120 years, the mean global temperature has steadily increased. It has spiked dramatically in the late 20th and early 21st centuries as more nations industrialize and material consumption increases. Case in point, China and India now account for close to 40% of GHG [emissions](https://www.activesustainability.com/environment/top-5-most-polluting-countries/).
 
 On a global scale, **"Average global temperatures have increased by 2.2 degrees Fahrenheit, or 1.2 degrees Celsius, since 1880, with the greatest changes happening in the late 20th century," ([NYTimes](https://www.nytimes.com/article/climate-change-global-warming-faq.html))
 
 As the planet warms, ice caps melt and sea levels rise: 
+![NOAA](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/climatedash.jpg)
 ![sealevel](https://github.com/anaulianova/Climate_Change_Time_Series/blob/main/images/sealevel.png)
 
